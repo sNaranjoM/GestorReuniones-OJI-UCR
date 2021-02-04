@@ -7,7 +7,7 @@ Agenda tipo calendario con las reuniones pendientes:
 ![](https://github.com/sNaranjoM/GestorReuniones-OJI-UCR/blob/main/img2.PNG)
 
 Dashboard con información entre rangos de fechas que permiten resumir datos como el tiempo y el dinero que la oficina invierte en reuniones. Así como tipos de reuniones y cantidad de asistencia. 
-![](https://github.com/sNaranjoM/GestorReuniones-OJI-UCR/blob/main/img3.png)
+![](https://github.com/sNaranjoM/GestorReuniones-OJI-UCR/blob/main/img3.jpeg)
 
 
 Resumen de una reunion finalizada. Se puede obtener un documento .pdf en el cual se docuementa cuales fueron los acuerdos obtenidos en la reunion, así como la trazabilidad de las tareas. 
