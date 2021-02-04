@@ -1,0 +1,1045 @@
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Usuario\Desktop\Verciones Proyecto Aplicada\V3\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+C:\Users\Graciela Porras\Desktop\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ResumenReunionView.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Romero\Documents\Repositorio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ResumenReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoCambiosStevenGarciela\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\TipoReunionCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ResumenReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\OficinaCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\RolSistemaCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Verciones Proyecto Analisis\V4\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\PuestoUsuarioCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\OficinaCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\PuestoUsuarioCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\RolSistemaCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\TipoReunionCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ResumenReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoInicio\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\OficinaCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\PuestoUsuarioCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\RolSistemaCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\TipoReunionCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ResumenReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Usuario\Desktop\Repositorio analisis\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\OficinaCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\PuestoUsuarioCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\RolSistemaCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\TipoReunionCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ResumenReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioCatalogos.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionUsuarioEstandar.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioEstandar.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Rotativa.AspNetCore.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MinutaReunion.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoGestorUltimoGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMinuta.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Rotativa.AspNetCore.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\OficinaCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\PuestoUsuarioCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\RolSistemaCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\TipoReunionCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionUsuarioEstandar.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MinutaReunion.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ResumenReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioCatalogos.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioEstandar.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMinuta.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\Verciones Proyecto Analisis\V8\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Rotativa.AspNetCore.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\scopedcss\bundle\GestorReunionesProyectoAnalisis.styles.css
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\OficinaCatalogoView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\PuestoUsuarioCatalogoView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\RolSistemaCatalogoView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\TipoReunionCatalogoView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionUsuarioEstandar.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MinutaReunion.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ResumenReunionView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioCatalogos.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioEstandar.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMinuta.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+C:\Users\fluis\Documents\Universidad\Analisis y diseño\ProyectoGestorReunionesGit\GestorReunionesAnalisis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Rotativa.AspNetCore.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\OficinaCatalogoView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\PuestoUsuarioCatalogoView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\RolSistemaCatalogoView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\TipoReunionCatalogoView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionUsuarioEstandar.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MinutaReunion.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ResumenReunionView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioCatalogos.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioEstandar.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMinuta.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\sjnm3\OneDrive\Escritorio\Proyecto presentacion\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Rotativa.AspNetCore.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\OficinaCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\PuestoUsuarioCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\RolSistemaCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\TipoReunionCatalogoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionUsuarioEstandar.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MinutaReunion.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ResumenReunionView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioCatalogos.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioEstandar.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMinuta.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+D:\Universidad\Analisis y diseño\ProyectoGestorReunionesCreadoPorLuis\ProyectoEntregaFinal\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Rotativa.AspNetCore.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\OficinaCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\PuestoUsuarioCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\RolSistemaCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\TipoReunionCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionUsuarioEstandar.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MinutaReunion.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ResumenReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioCatalogos.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioEstandar.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMinuta.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Usuario\Desktop\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.exe
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.deps.json
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.json
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\Rotativa.AspNetCore.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.input.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.TagHelpers.output.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorCoreGenerate.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Agenda\Calendario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\CrearCatalogos.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\OficinaCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\PuestoUsuarioCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\RolSistemaCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\TipoReunionCatalogoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Dashboard\DashboardView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\BuscaReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\CrearReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionUsuarioEstandar.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\EjecucionReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MinutaReunion.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ModificarReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\MostrarReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Reunion\ResumenReunionView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioCatalogos.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\LayoutUsuarioEstandar.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLoginUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutMinuta.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_TablaAgregaContactosView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\BuscarTareasView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\CrearTareaView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Tarea\ModificarTareaView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CrearUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\LoginView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarContactoView.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ModificarUsuario.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.Views.pdb
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\staticwebassets\GestorReunionesProyectoAnalisis.StaticWebAssets.xml
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.dll
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.pdb
+C:\Users\Usuario\Desktop\Analisis y diseño de sistemas\GR Presentación Final\GestorReunionesAnalisis-luis\GestorReunionesProyectoAnalisis\obj\Debug\netcoreapp3.1\GestorReunionesProyectoAnalisis.genruntimeconfig.cache

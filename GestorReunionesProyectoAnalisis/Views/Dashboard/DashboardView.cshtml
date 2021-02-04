@@ -1,0 +1,332 @@
+﻿@{
+    ViewData["Title"] = "DashboardView";
+
+    if (ViewBag.PermisoUsuario == "1")
+        {
+            Layout = "_Layout";
+        }
+        else if (ViewBag.PermisoUsuario == "2")
+        {
+            Layout = "LayoutUsuarioEstandar";
+        }
+        else if (ViewBag.PermisoUsuario == "3")
+        {
+            Layout = "LayoutUsuarioCatalogos";
+        }
+
+        if (ViewBag.PermisoUsuario == null)
+        {
+            <script>
+                redireccion('/Usuario/MuestraLoginUsuario');
+            </script>
+        }
+
+}
+
+@model String
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.min.js" integrity="sha512-s+xg36jbIujB2S2VKfpGmlC3T5V2TF3lY48DX7u2r9XzGzgPsa6wTpOQA7J9iffvdeBN0q9tKzRxVxw1JviZPg==" crossorigin="anonymous"></script>
+
+<link rel="stylesheet" type="text/css" href="~/css/script.css" />
+<link rel="stylesheet" type="text/css" href="~/css/moduloAdministrador.css" />
+<link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="~/css/style.css">
+
+
+<section id="contenido">
+    <section id="principal">
+
+
+        <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+
+            <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+
+                <div class="signup-form">
+                    <form class="form-signin" asp-controller="Dashboard" asp-action="CargarDashboard" method="POST">
+                        <h3>Dashboard General</h3>
+                        <p class="hint-text">Espacio para buscar informacion sobre las reuniones segun dos rangos de fechas. </p>
+
+                        <div class="form-group">
+                            <input type="date" id="fechaInicio" name="fechaInicio" class="form-control" placeholder="Fecha" required="">
+                        </div>
+
+                        <div class="form-group">
+                            <input type="date" id="fechaFinal" name="fechaFinal" class="form-control" placeholder="Fecha" required="">
+                        </div>
+
+                        <div class="form-group"> <button type="submit" class="btn btn-outline-secondary">Ingresar</button> </div>
+                        <div class="form-group"><span id="resultadoRespuesta"></span></div>
+                        @if (ViewBag.INVALIDO != null)
+                        {
+                            <div class="alert alert-danger" id="al1" role="alert" style="display: block; text-align:center">
+                                <h6> @ViewBag.INVALIDO</h6>
+                            </div>
+                            
+                        }
+
+
+                    </form>
+                </div>
+            </div>
+
+
+        </div>
+       
+
+        @if (ViewBag.ListaDashboard != null)
+        {
+
+            <div class="album py-5 bg-light">
+                <div class="container">
+
+                    <div class="row">
+                        <div class="col-md-4">
+                            <div class="card mb-4 shadow-sm text-lg-center">
+                                <h3 class="text-muted">Asistencia</h3>
+                                <canvas id="myChart" width="400" height="400"></canvas>
+                            </div>
+                        </div>
+                        <div class="col-md-4">
+                            <div class="card mb-4 shadow-sm text-lg-center">
+                                <h3 class="text-muted">Cantidad de reuniones</h3>
+                                <canvas id="graficoBarrasCantidadReuniones" width="400" height="400"></canvas>
+                            </div>
+                        </div>
+
+
+                        <div class="col-md-4">
+                            <div class="card mb-4 shadow-sm text-lg-center">
+                                <h3 class="text-muted">Tipo de reuniones</h3>
+                                <canvas id="graficoDonaTipo" width="200" height="200"></canvas>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="card mb-4 shadow-sm text-lg-center">
+                                <h3 class="text-muted">Dinero invertido</h3>
+                                <canvas id="gfclineaDinero" width="200" height="200"></canvas>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <div class="card mb-4 shadow-sm text-lg-center">
+                                <h3 class="text-muted">Tiempo invertido</h3>
+                                <canvas id="gfclineaTiempo" width="200" height="200"></canvas>
+                            </div>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+        }
+
+    </section>
+</section>
+
+
+@if (ViewBag.ListaDashboard != null)
+{
+
+    DashboardModel temp = ViewBag.ListaDashboard;
+
+    <input id="TC_Nombre_Meses" name="iptIDReunion" class="form-control" value="@temp.TC_Nombre_Meses" hidden />
+    <input id="TC_Asistencia_Meses" name="iptNombreReunion" class="form-control" value="@temp.TC_Asistencia_Meses" hidden />
+    <input id="TC_Cantidad_Reunion" name="iptNombreReunion" class="form-control" value="@temp.TC_Cantidad_Reunion" hidden />
+    <input id="TC_Tipo_Reunion" name="iptNombreReunion" class="form-control" value="@temp.TC_Tipo_Reunion " hidden />
+    <input id="TC_Nombre_Reunion" name="iptNombreReunion" class="form-control" value="@temp.TC_Nombre_Reunion" hidden />
+    <input id="TC_Dinero_Invertido" name="iptFechaReunion" class="form-control" value="@temp.TC_Dinero_Invertido" hidden />
+    <input id="TC_Tiempo_Invertido" name="iptFechaReunion" class="form-control" value="@temp.TC_Tiempo_Invertido" hidden />
+
+
+    <script>
+
+        //alert(document.getElementById("TC_Nombre_Meses").value);
+        var nombreMeses = document.getElementById("TC_Nombre_Meses").value;
+        nombreMesesSplit = nombreMeses.split(',');
+
+        var asistenciaReunion= document.getElementById("TC_Asistencia_Meses").value;
+        asistenciaReunionSplit = asistenciaReunion.split(',');
+
+        var cantidadReunion = document.getElementById("TC_Cantidad_Reunion").value;
+        cantidadReunionSplit = cantidadReunion.split(',');
+
+        var TipoReunion = document.getElementById("TC_Tipo_Reunion").value;
+        TipoReunionSplit = TipoReunion.split(',');
+
+        var NombreReunion = document.getElementById("TC_Nombre_Reunion").value;
+        NombreReunionSplit = NombreReunion.split(',');
+
+        var DineroReunion = document.getElementById("TC_Dinero_Invertido").value;
+        DineroReunionSplit = DineroReunion.split(',');
+
+        var TiempoReunion = document.getElementById("TC_Tiempo_Invertido").value;
+        TiempoReunionSplit = TiempoReunion.split(',');
+
+        // Enero,febrero
+
+        var ctx = document.getElementById('myChart');
+        var myChart = new Chart(ctx, {
+            type: 'line',
+
+            data: {
+                
+                labels: nombreMesesSplit,
+                datasets: [{
+                    label: 'Mensual',
+                    data: asistenciaReunionSplit,
+                    backgroundColor: 'rgba(241, 196, 15 , 0.4)',
+                    borderColor: 'rgba(46, 64, 83 , 0.6)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+
+
+        var graficoBarrasCantidadReuniones = document.getElementById('graficoBarrasCantidadReuniones');
+        var gfcBarTipo = new Chart(graficoBarrasCantidadReuniones, {
+            type: 'bar',
+
+            data: {
+                labels: nombreMesesSplit,
+                datasets: [{
+                    label: 'Mensual',
+                    data: cantidadReunionSplit,
+                    backgroundColor: 'rgba(241, 196, 15  , 0.5)',
+                    borderColor: 'rgba(46, 64, 83 , 0.6)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+
+
+        var graficoDonaTipo = document.getElementById('graficoDonaTipo');
+
+
+        var gfcPieTipo = new Chart(graficoDonaTipo, {
+            type: 'doughnut',
+
+            data: {
+                labels: NombreReunionSplit,
+                datasets: [{
+
+
+                    label: 'Mensual',
+                    data: TipoReunionSplit,
+                    borderColor: 'rgba(46, 64, 83 , 0.6)',
+                    backgroundColor: colorRGB(20),
+                    borderWidth: 3
+                }]
+            }
+
+        });
+
+
+
+
+
+
+        var gfclineaDinero = document.getElementById('gfclineaDinero');
+        var myChart = new Chart(gfclineaDinero, {
+            type: 'line',
+
+            data: {
+                labels: nombreMesesSplit,
+                datasets: [{
+                    label: 'Colones',
+                    data: DineroReunionSplit,
+                    backgroundColor: 'rgba(241, 196, 15 , 0.4)',
+                    borderColor: 'rgba(46, 64, 83 , 0.6)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+
+
+
+        var gfclineaTiempo = document.getElementById('gfclineaTiempo');
+        var myChart = new Chart(gfclineaTiempo, {
+            type: 'line',
+
+            data: {
+                labels: nombreMesesSplit,
+                datasets: [{
+                    label: 'Horas',
+                    data: TiempoReunionSplit,
+                    backgroundColor: 'rgba(241, 196, 15 , 0.4)',
+                    borderColor: 'rgba(46, 64, 83 , 0.6)',
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero: true
+                        }
+                    }]
+                }
+            }
+        });
+
+
+
+        function generarNumero(numero) {
+
+            return (Math.random() * numero).toFixed(0);
+        }
+
+        function colorRGB(numero) {
+            var coolor = ['rgba(212, 172, 13, 0.9)'];
+            for (var i = 0; i < numero; i++) {
+                coolor.push("rgba(" + generarNumero(255) + "," + generarNumero(255) + "," + generarNumero(255) + ", 0.5)");
+            }
+
+            return coolor;
+        }
+
+
+
+
+
+    </script>
+
+}
+
+
+
+
+
+
+

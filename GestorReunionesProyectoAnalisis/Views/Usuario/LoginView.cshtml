@@ -1,0 +1,58 @@
+﻿
+
+@{
+    ViewData["Title"] = "LoginUsuarios";
+    Layout = "_LayoutLoginUsuario";
+
+    // if (ViewBag.ReiniciarSession == null)
+    //{
+        <script>
+          //  redireccion('/Usuario/MuestraLoginUsuario');
+        </script>
+        //}
+
+
+        //@ViewBag.ReiniciarSession = null;
+    }
+<span id="LoginDatos"></span>
+
+@model String
+<link rel="stylesheet" type="text/css" href="~/css/script.css" />
+<link rel="stylesheet" type="text/css" href="~/css/moduloAdministrador.css" />
+<link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="~/css/style.css">
+
+<section id="contenidoR" style="margin-top:60px">
+    <section id="principalR">
+
+        <div class=" d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+            <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                <div class="signup-form container-fluid" style="width: 63%;">
+                    <form class="form-signin" id="iniciaSesion" asp-controller="Usuario" asp-action="LoginUsuario" method="POST">
+                        <h2>Iniciar Sesión</h2>
+
+                        <div class="form-group">
+                            <input type="text" id="nombre" name="nombre" class="form-control" placeholder="Nombre de usuario" required="" autofocus="">
+                        </div>
+                        <div class="form-group">
+                            <input type="password" id="contrasena" name="contrasena" class="form-control" placeholder="Contraseña" required="">
+                        </div>
+                        <div class="form-group "><button class="btn btn-outline-secondary btn-block" type="submit">Iniciar Sesion</button></div>
+
+                        @if (ViewBag.ERROR != null)
+                        {
+                            <div class="alert alert-danger" id="al1" role="alert" style="display: block; text-align:center">
+                                @Model
+                                <h6> @ViewBag.ERROR</h6>
+                            </div>
+                            <br>
+                        }
+                    </form>
+                </div>
+            </div>
+        </div>
+
+    </section>
+</section>
+

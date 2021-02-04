@@ -1,0 +1,26 @@
+﻿@{
+
+    ViewData["Title"] = "Home Page";
+
+    if (ViewBag.PermisoUsuario == "1")
+    {
+        Layout = "_Layout";
+    }
+    else if (ViewBag.PermisoUsuario == "2")
+    {
+        Layout = "LayoutUsuarioEstandar";
+    }
+    else if (ViewBag.PermisoUsuario == "3")
+    {
+        Layout = "LayoutUsuarioCatalogos";
+    }
+
+    if (ViewBag.PermisoUsuario == null)
+    {
+        <script>
+            redireccion('/Usuario/MuestraLoginUsuario');
+        </script>
+    }
+
+
+}

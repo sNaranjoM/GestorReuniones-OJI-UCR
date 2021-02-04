@@ -1,0 +1,191 @@
+﻿@{
+    ViewData["Title"] = "ModificarUsuario";
+
+    if (ViewBag.PermisoUsuario == "1")
+    {
+        Layout = "_Layout";
+    }
+    else if (ViewBag.PermisoUsuario == "2")
+    {
+        Layout = "LayoutUsuarioEstandar";
+    }
+    else if (ViewBag.PermisoUsuario == "3")
+    {
+        Layout = "LayoutUsuarioCatalogos";
+    }
+
+    if (ViewBag.PermisoUsuario == null)
+    {
+        <script>
+            redireccion('/Usuario/MuestraLoginUsuario');
+        </script>
+    }
+
+}
+
+@model String
+
+
+<link rel="stylesheet" type="text/css" href="~/css/script.css" />
+<link rel="stylesheet" type="text/css" href="~/css/moduloAdministrador.css" />
+<link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="~/css/style.css">
+
+
+<section id="contenidoR" style="margin-top:60px">
+    <section id="principalR">
+
+        <br><br>
+        <div content="width=device-widt" class="row">
+            <div class="signup-form col-sm-8">
+
+                @if (ViewBag.UsuarioModificar != null)
+                {
+                    string @a = "hola";
+                    UsuarioModel @temp2 = ViewBag.UsuarioModificar;
+
+                    <form class="form-signin" asp-controller="Usuario" asp-action="ModificarUsuario" method="POST">
+                        <center>
+                            <h3>Modificar Usuario</h3>
+
+                            <p class="hint-text">Los usuarios será creados unicamente por administradores. </p>
+                            <div content="width=device-widt" class="row">
+
+                                <div class="col-sm-6">
+                                    <h9> </h9> <!--Corregir desfase-->
+                                    <input id="idUsuario" name="idUsuario" class="form-control" value="@temp2.IdUsuario" hidden />
+                                    <div class="form-group">
+                                        <label for="nomUs">Nombre</label>
+                                        <input id="nombre" name="nombre" type="text" placeholder="Nombre" value="@temp2.Nombre" class="form-control" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="primApell">Primer apellido</label>
+                                        <input id="primerApellido" name="primerApellido" type="text" placeholder="Primer apellido" value="@temp2.PrimerApellido" class="form-control" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="segunApell">Segundo apellido</label>
+                                        <input id="segundoApellido" name="segundoApellido" type="text" placeholder="Segundo  apellido" value="@temp2.SegundoApellido" class="form-control" required >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="labelCedula">Cedula</label>
+                                        <input id="cedula" name="cedula" type="number" placeholder="Cedula" value="@temp2.Cedula" class="form-control" required >
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="labelUsuario">Usuario</label>
+                                        <input id="usuario" name="usuario" type="text" placeholder="Usuario" value="@temp2.Usuario" class="form-control" required >
+                                    </div>
+
+                                    <h9> </h9> <!--Corregir desfase-->
+
+                                </div>
+
+                                <div class="col-sm-6">
+
+                                    <h9> </h9> <!--Corregir desfase-->
+                                    <div class="form-group">
+                                        <label for="labelCorreo">Correo</label>
+                                        <input id="correo" name="correo" type="text" placeholder="Correo" value="@temp2.Correo" class="form-control" required>
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="labelContrasena">Contraseña</label>
+                                        <input id="contrasena" name="contrasena" type="password" placeholder="Contraseña" value="@temp2.Contrasena" class="form-control" required>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="tipoOfi">Oficina</label>
+                                        <select id="oficina" name="oficina" class="form-control">
+
+                                            <option value="@temp2.Oficina">@temp2.TC_Nombre_Oficina</option>
+                                            @if (ViewBag.ListaOficinas != null)
+                                            {
+
+                                                @foreach (OficinaModel temp in ViewBag.ListaOficinas)
+                                                {
+                                                    if (Int32.Parse(temp2.Oficina.ToString()) != temp.TN_Id_Oficina)
+                                                    {
+                                                        <option value="@temp.TN_Id_Oficina">@temp.TC_Nombre</option>
+                                                    }
+
+                                                }
+                                            }
+
+                                        </select>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="tipoPuest">Puesto</label>
+                                        <select id="puesto" name="puesto" class="form-control">
+                                            <option value="@temp2.Puesto">@temp2.TC_Nombre_Puesto</option>
+                                            @if (ViewBag.ListaPuestos != null)
+                                            {
+
+                                                @foreach (PuestoModel temp in ViewBag.ListaPuestos)
+                                                {
+                                                    if (Int32.Parse(temp2.Puesto.ToString()) != temp.TN_Id_Puesto)
+                                                    {
+                                                        <option value="@temp.TN_Id_Puesto">@temp.TC_Nombre_Puesto</option>
+                                                    }
+                                                }
+                                            }
+                                        </select>
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="tipoRol">Rol</label>
+                                        <select id="rol" name="rol" class="form-control">
+                                            <option value="@temp2.Rol">@temp2.TC_Nombre_Rol</option>
+                                            @if (ViewBag.ListaRoles != null)
+                                            {
+
+                                                @foreach (RolModel temp in ViewBag.ListaRoles)
+                                                {
+                                                    if (Int32.Parse(temp2.Rol.ToString()) != temp.TN_Id_Rol)
+                                                    {
+                                                        <option value="@temp.TN_Id_Rol">@temp.TC_Nombre_Rol</option>
+                                                    }
+
+                                                }
+                                            }
+                                        </select>
+                                    </div>
+                                    <h9> </h9> <!--Corregir desfase-->
+
+                                </div>
+                            </div>
+
+                            <div class="form-group"><button class="btn btn-outline-secondary btn-block" type="submit">Finalizar</button><br></div>
+
+
+                            @if (ViewBag.ERROR != null && ViewBag.ErrorContrasena == null)
+                            {
+                                <div class="alert alert-danger" id="al1" role="alert" style="display: block; text-align:center">
+                                    <h6> @ViewBag.ERROR</h6>
+                                </div>
+                                <br>
+
+                            }
+
+
+                         @if (ViewBag.ErrorContrasena != null)
+                            {
+                                <div class="alert alert-danger" id="al1" role="contentinfo" style="display: block; text-align:center">
+                                    <h6> @ViewBag.ErrorContrasena</h6>
+                                </div>
+                                <br>
+
+                            }
+
+
+                        </center>
+
+                    </form>
+                }
+
+            </div>
+        </div>
+
+    </section>
+</section>
+
+

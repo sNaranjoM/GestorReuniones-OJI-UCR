@@ -1,0 +1,248 @@
+﻿@{
+    ViewData["Title"] = "ModificarTarea";
+
+    if (ViewBag.PermisoUsuario == "1")
+    {
+        Layout = "_Layout";
+    }
+    else if (ViewBag.PermisoUsuario == "2")
+    {
+        Layout = "LayoutUsuarioEstandar";
+    }
+    else if (ViewBag.PermisoUsuario == "3")
+    {
+        Layout = "LayoutUsuarioCatalogos";
+    }
+
+    if (ViewBag.PermisoUsuario == null)
+    {
+        <script>
+            redireccion('/Usuario/MuestraLoginUsuario');
+        </script>
+    }
+
+}
+
+<link rel="stylesheet" type="text/css" href="~/css/script.css" />
+<link rel="stylesheet" type="text/css" href="~/css/moduloAdministrador.css" />
+<link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="~/css/style.css">
+
+<script>    
+    var numeroJS = 1;
+    let listaUsuariosTarea = [];
+</script>
+
+@if (ViewBag.TareaModificar != null)
+{
+    TareaModel temp2 = ViewBag.TareaModificar;
+
+    string[] vectorIdUsuario = temp2.listaUsuarios.Split(',');
+
+
+    int numero = 1;
+
+    for (int i = 0; i < vectorIdUsuario.Length; i++)
+    {
+
+        string idListaUsuariosTareas = "idListaUsuariosTareas";
+       
+        idListaUsuariosTareas += numero;
+        numero = numero + 1;
+      
+        <input id="@idListaUsuariosTareas" name="@idListaUsuariosTareas" class="form-control" value="@vectorIdUsuario[i]" hidden />
+
+        <script>
+         
+            var idListaUsuariosTareasJS = "idListaUsuariosTareas";
+            idListaUsuariosTareasJS += numeroJS;
+            numeroJS = numeroJS + 1     
+                       
+            listaUsuariosTarea.push(document.getElementById(idListaUsuariosTareasJS).value);           
+            sessionStorage.setItem("ListaUsuariosTarea", listaUsuariosTarea);
+          
+
+        </script>
+  
+
+    }
+
+}
+
+
+
+
+
+
+<section id="contenidoT" style="margin-top:120px;">
+    <section id="principalT">
+        <center>
+            <div class=" d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+                <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                    <div class="signup-form container-fluid" style="width:45%">
+
+                        <h2>Modificar Tarea</h2>
+                        <p class="hint-text">Solo las jefaturas y el secretariado tiene el rango para crear Tareas.</p>
+                        <center>
+                            <div class="" style="width:80%">
+                                @if (ViewBag.TareaModificar != null)
+                                {
+
+                                    TareaModel temp = ViewBag.TareaModificar;
+
+                                    <div class="form-group">
+                                        <label for="NombreT" class="sr-only">Nombre de Tarea</label>
+                                        <input type="text" id="NombreT" class="form-control" value="@temp.TC_Nombre_Tarea" placeholder="Nombre de Tarea" required="" autofocus="">
+                                    </div>
+                                    <div class="form-group">
+                                        <label for="descripcionT">Descripción</label>
+                                        <textarea class="form-control" id="descripcionT" rows="3">@temp.TC_Descripcion_Tarea</textarea>
+                                    </div>
+
+                                    <input id="@temp.TN_Id_Tarea" name="id_Tarea" class="form-control" value="@temp.TN_Id_Tarea" hidden />
+                                    <div class="form-group"><button id="btnUsuariosListaT" type="button" class="btn btn-secondary  btn-block" data-toggle="modal" data-target="#usuariosListaT">Añadir contacto</button></div>
+                                    <div class="form-group"><button class="btn btn-outline-secondary btn-block" type="button" href="javascript:;" onclick="finalizarModificarTarea($('#@temp.TN_Id_Tarea').val(), $('#NombreT').val(), $('#descripcionT').val()); return false;">Finalizar</button></div>
+                                }
+                                <span id="tareaDatos"></span>
+
+                            </div>
+                        </center>
+                    </div>
+                </div>
+            </div>
+
+
+
+        </center>
+
+    </section>
+</section>
+
+<!-- Modal lista de usuario -->
+<div class="modal fade" id="usuariosListaT" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #343a40 !important;">
+                <h3 style="color:#ffffff">Lista de Usuarios</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <table id="tablaUsuariosCrearReunion" class="table table-striped table-bordered dt-responsive nowrap" style="width:100%">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Incluir</th>
+                            <th>Nombre</th>
+                            <th>Oficina</th>
+                            <th>Puesto</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+
+                        @if (ViewBag.ListaUsuarios != null)
+                        {
+                            @if (ViewBag.TareaModificar != null)
+                            {
+
+                                TareaModel temp2 = ViewBag.TareaModificar;
+
+                                foreach (UsuarioModel temp in ViewBag.ListaUsuarios)
+                                {
+
+
+
+                                    string[] vectorIdUsuario = temp2.listaUsuarios.Split(',');
+                                    bool activo = false;
+                                    for (int i = 0; i < vectorIdUsuario.Length; i++)
+                                    {
+                                        if (Int32.Parse(vectorIdUsuario[i].ToString()) == temp.IdUsuario)
+                                        {
+                                            activo = true;
+                                            break;
+                                        }
+                                        else
+                                        {
+                                            activo = false;
+                                        }
+
+                                    }
+
+                                    if (activo)
+                                    {
+                                        <tr>
+                                            <td>
+                                                <div class="custom-control custom-switch">
+                                                    <input name="checks" type="checkbox" checked class="custom-control-input" id="@temp.IdUsuario" value="@temp.IdUsuario">
+                                                    <label class="custom-control-label" for="@temp.IdUsuario">
+                                                    </label>
+                                                </div>
+                                            </td>
+                                            <td>@temp.Nombre</td>
+                                            <td>@temp.Oficina</td>
+                                            <td>@temp.Puesto</td>
+                                        </tr>
+                                    }
+                                    else
+                                    {
+                                        <tr>
+                                            <td>
+                                                <div class="custom-control custom-switch">
+                                                    <input name="checks" type="checkbox" class="custom-control-input" id="@temp.IdUsuario" value="@temp.IdUsuario">
+                                                    <label class="custom-control-label" for="@temp.IdUsuario">
+                                                    </label>
+                                                </div>
+                                            </td>
+                                            <td>@temp.Nombre</td>
+                                            <td>@temp.Oficina</td>
+                                            <td>@temp.Puesto</td>
+                                        </tr>
+                                    }
+                                }
+                            }
+                        }
+
+                    </tbody>
+                </table>
+
+
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" href="javascript:;" onclick="PruebaCerrar(); return false;" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <input type="button" class="btn btn-warning" href="javascript:;" data-toggle="modal" data-target="#modalAnadirContacto" onclick="anadirContactosTarea(); return false;" value="Agregar Contactos" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<!--Modal Luego de añadir contacto-->
+<div class="modal fade" id="modalAnadirContacto" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #343a40 !important;">
+                <h3 style="color:#ffffff"></h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h5>Los contactos fueron agregados con exito</h5>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-dark" data-dismiss="modal">Aceptar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+

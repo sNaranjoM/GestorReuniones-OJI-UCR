@@ -1,0 +1,160 @@
+﻿@{
+    ViewData["Title"] = "CrearUsuario";
+
+    if (ViewBag.PermisoUsuario == "1")
+    {
+        Layout = "_Layout";
+    }
+    else if (ViewBag.PermisoUsuario == "2")
+    {
+        Layout = "LayoutUsuarioEstandar";
+    }
+    else if (ViewBag.PermisoUsuario == "3")
+    {
+        Layout = "LayoutUsuarioCatalogos";
+    }
+
+    if (ViewBag.PermisoUsuario == null)
+    {
+        <script>
+            redireccion('/Usuario/MuestraLoginUsuario');
+        </script>
+    }
+
+
+}
+
+<link rel="stylesheet" type="text/css" href="~/css/script.css" />
+<link rel="stylesheet" type="text/css" href="~/css/moduloAdministrador.css" />
+<link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="~/css/style.css">
+
+<section id="contenidoR" style="margin-top:60px">
+    <section id="principalR">
+
+        <br><br>
+        <div content="width=device-widt" class="row">
+            <div class="signup-form col-sm-8">
+
+                <form class="form-signin" asp-controller="Usuario" asp-action="CrearUsuario" method="POST">
+                    <center>
+                        <h3>Crear Usuario</h3>
+
+                        <p class="hint-text">Los usuarios será creados unicamente por administradores. </p>
+                        <div content="width=device-widt" class="row">
+
+                            <div class="col-sm-6">
+                                <h9> </h9> <!--Corregir desfase-->
+                                <div class="form-group"><input id="nombre" name="nombre" type="text" placeholder="Nombre" class="form-control" required></div>
+                                <div class="form-group"><input id="primerApellido" name="primerApellido" type="text" placeholder="Primer apellido" class="form-control" required></div>
+                                <div class="form-group"><input id="segundoApellido" name="segundoApellido" type="text" placeholder="Segundo  apellido" class="form-control" required></div>
+                                <div class="form-group"><input id="cedula" name="cedula" type="number" placeholder="Cedula" class="form-control" required></div>
+                                <div class="form-group"><input id="usuario" name="usuario" type="text" placeholder="Usuario" class="form-control" required></div>
+                                <h9> </h9> <!--Corregir desfase-->
+
+                            </div>
+
+                            <div class="col-sm-6">
+
+                                <h9> </h9> <!--Corregir desfase-->
+                                <div class="form-group"><input id="correo" name="correo" type="text" placeholder="Correo" class="form-control" required></div>
+                                <div class="form-group"><input id="contrasena" name="contrasena" type="password" placeholder="Contraseña" class="form-control" required></div>
+
+                                <div class="form-group">
+                                    <select id="oficina" name="oficina" class="form-control">
+
+                                        <option value="0">Oficina</option>
+                                        @if (ViewBag.ListaOficinas != null)
+                                        {
+
+                                            @foreach (OficinaModel temp in ViewBag.ListaOficinas)
+                                            {
+                                                <option value="@temp.TN_Id_Oficina">@temp.TC_Nombre</option>
+
+                                            }
+                                        }
+
+                                    </select>
+                                </div>
+
+                                <div class="form-group">
+                                    <select id="puesto" name="puesto" class="form-control">
+                                        <option value="0">Puestos</option>
+                                        @if (ViewBag.ListaPuestos != null)
+                                        {
+
+                                            @foreach (PuestoModel temp in ViewBag.ListaPuestos)
+                                            {
+                                                <option value="@temp.TN_Id_Puesto">@temp.TC_Nombre_Puesto</option>
+
+                                            }
+                                        }
+                                    </select>
+                                </div>
+
+                                <div class="form-group">
+                                    <select id="rol" name="rol" class="form-control">
+                                        <option value="0">Rol</option>
+                                        @if (ViewBag.ListaRoles != null)
+                                        {
+
+                                            @foreach (RolModel temp in ViewBag.ListaRoles)
+                                            {
+                                                <option value="@temp.TN_Id_Rol">@temp.TC_Nombre_Rol</option>
+
+                                            }
+                                        }
+                                    </select>
+                                </div>
+                                <h9> </h9> <!--Corregir desfase-->
+
+                            </div>
+                        </div>
+
+                        <div class="form-group"><button class="btn btn-outline-secondary btn-block" type="submit">Finalizar</button><br></div>
+
+
+                        @if (ViewBag.ERROR != null && ViewBag.ErrorContrasena == null)
+                        {
+                            <div class="alert alert-danger" id="al1" role="alert" style="display: block; text-align:center">
+                                <h6> @ViewBag.ERROR</h6>
+                            </div>
+                            <br>
+
+                        }
+
+
+                        @if (ViewBag.EXITO != null )
+                        {
+                            <div class="alert alert-info" id="al1" role="contentinfo" style="display: block; text-align:center">
+                                <h6> @ViewBag.EXITO</h6>
+                            </div>
+                            <br>
+
+                        }
+
+
+                        @if (ViewBag.ErrorContrasena != null)
+                        {
+                            <div class="alert alert-danger" id="al1" role="contentinfo" style="display: block; text-align:center">
+                                <h6> @ViewBag.ErrorContrasena</h6>
+                            </div>
+                            <br>
+
+                        }
+
+                        
+
+                    </center>
+
+                </form>
+
+            </div>
+        </div>
+
+    </section>
+</section>
+
+
+

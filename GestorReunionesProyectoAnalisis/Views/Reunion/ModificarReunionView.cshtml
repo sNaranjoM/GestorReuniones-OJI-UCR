@@ -1,0 +1,651 @@
+﻿
+@{ ViewData["Title"] = "ModificarReunionView";
+
+    if (ViewBag.PermisoUsuario == "1")
+    {
+        Layout = "_Layout";
+    }
+    else if (ViewBag.PermisoUsuario == "2")
+    {
+        Layout = "LayoutUsuarioEstandar";
+    }
+    else if (ViewBag.PermisoUsuario == "3")
+    {
+        Layout = "LayoutUsuarioCatalogos";
+    }
+
+    if (ViewBag.PermisoUsuario == null)
+    {
+<script>
+    redireccion('/Usuario/MuestraLoginUsuario');
+</script>
+ } }
+
+@model String
+<link rel="stylesheet" type="text/css" href="~/css/script.css" />
+<link rel="stylesheet" type="text/css" href="~/css/style.css">
+
+
+
+<script>
+    var numeroJS = 1;
+    var numeroJS2 = 1;
+    let listaTareaReunionTemp = [];
+    let listaUsuariosReunionTemp = [];
+</script>
+
+@if (ViewBag.ReunionModificar != null)
+{
+    ReunionModel temp2 = ViewBag.ReunionModificar;
+
+    string[] vectorIdUsuario = temp2.TC_Lista_Usuarios.Split(',');
+    string[] vectorIdTareas = temp2.TC_Lista_Tareas.Split(',');
+
+    int numero = 1;
+    int numero2 = 1;
+
+    for (int i = 0; i < vectorIdUsuario.Length; i++)
+    {
+        string idListaUsuariosReunion = "idListaUsuariosReunion";
+
+        idListaUsuariosReunion += numero;
+
+        numero = numero + 1;
+
+<input id="@idListaUsuariosReunion" name="@idListaUsuariosReunion" class="form-control" value="@vectorIdUsuario[i]" hidden />
+
+
+
+                    <script>
+
+                        var idListaUsuariosTareasJS = "idListaUsuariosReunion";
+                        idListaUsuariosTareasJS += numeroJS;
+                        numeroJS = numeroJS + 1;
+
+
+                        listaUsuariosReunionTemp.push(document.getElementById(idListaUsuariosTareasJS).value);
+
+                        sessionStorage.setItem("ListaUsuariosReunion", listaUsuariosReunionTemp);
+
+                    </script>
+ }
+
+                for (int i = 0; i < vectorIdTareas.Length; i++)
+                {
+
+                    string idListaTareasReunion = "idListaTareasReunion";
+
+                    idListaTareasReunion += numero2;
+
+                    numero2 = numero2 + 1;
+
+<input id="@idListaTareasReunion" name="@idListaTareasReunion" class="form-control" value="@vectorIdTareas[i]" hidden />
+
+                    <script>
+
+                        var idListaUsuariosTareasJS = "idListaTareasReunion";
+                        idListaUsuariosTareasJS += numeroJS2;
+                        numeroJS2 = numeroJS2 + 1;
+
+                        listaTareaReunionTemp.push(document.getElementById(idListaUsuariosTareasJS).value);
+                        sessionStorage.setItem("ListaTareasReunion", listaTareaReunionTemp);
+
+                    </script>
+}
+
+            }
+
+
+
+
+<section id="contenidoR" style="margin-top:60px">
+    <section id="principalR">
+
+        <CENTER>
+            <div class="signup-form container-fluid row" style="width: 80%;">
+                <div class="signup-form col-sm-8">
+
+
+                    <center>
+
+
+
+                        @if (ViewBag.ReunionModificar != null)
+                        {
+                            ReunionModel temp2 = ViewBag.ReunionModificar;
+
+            <h2>Modificar Reunión</h2>
+
+                            <p class="hint-text">Solo las jefaturas y el secretariado tiene el rango para crear reuniones.</p>
+                                            <div content="width=device-widt" class="row">
+
+                                                <div class="col-sm-6">
+                                                    <h9> </h9> <!--Corregir desfase-->
+                                                    <div class="form-group">
+                                                        <label for="NombreR" class="sr-only">Nombre de reunión</label>
+                                                        <input type="text" id="NombreR" class="form-control" value="@temp2.TC_Nombre_Reunion" placeholder="Nombre de reunión" autofocus="">
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <label for="tipoR">Tipo de Reunión</label>
+                                                        <select id="TN_Id_Tipo_Reunion" name="TN_Id_Tipo_Reunion" class="form-control">
+
+                                                            @if (ViewBag.ListaTiposReunion != null)
+                                                            {
+
+                                            @foreach (TipoReunionModel temp in ViewBag.ListaTiposReunion)
+                                            {
+                        <option value="@temp.TN_Id_Tipo_Reunion">@temp.TC_Nombre_Tipo_Reunion</option>
+}}
+
+                                                        </select>
+                                                    </div>
+
+
+                                                    <div class="form-group">
+                                                        <label for="descripcionR">Descripción</label>
+                                                        <textarea class="form-control" id="descripcionR" rows="2">@temp2.TC_Descripcion</textarea>
+                                                    </div>
+
+                                                    <div class="form-group">
+                                                        <label for="comentarioR">Comentario</label>
+                                                        <textarea class="form-control" id="comentarioR" rows="2">@temp2.TC_Comentario</textarea>
+                                                    </div>
+                                                    <h9> </h9> <!--Corregir desfase-->
+                                                </div>
+
+                                                <div class="col-sm-6">
+                                                    <h9> </h9> <!--Corregir desfase-->
+                                                    <div class="form-group">
+                                                        <label for="LugarR" class="sr-only"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Lugar</font></font></label>
+                                                        <input type="text" id="LugarR" value="@temp2.TC_Lugar" class="form-control" placeholder="Lugar">
+                                                    </div>
+
+
+
+                                                    <div class="form-group">
+                                                        <label for="FechaHoraR" class="sr-only"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fecha y Hora</font></font></label>
+                                                        <input type="datetime-local" id="FechaHoraR" class="form-control" placeholder="Fecha y Hora">
+                                                    </div>
+
+                                                    <div class="form-group"><button class="btn btn-outline-success  btn-block" type="button" data-toggle="modal" data-target="#modalTemas"> Incluir tema</button></div>
+
+                                                    <div class="form-group"><button id="btnUsuariosListaR" type="button" class="btn btn-secondary  btn-block" data-toggle="modal" data-target="#modalUsuariosCrearReunion">Añadir contacto</button></div>
+
+                                                    <div class="form-group"><button id="btnTareaListaR" type="button" class="btn btn-secondary  btn-block" data-toggle="modal" data-target="#modalTareasCrearReunion">Añadir Tarea</button></div>
+
+                                                    <div class="form-group"><button id="btnAgregaArchivosR" type="button" class="btn btn-secondary  btn-block" data-toggle="modal" data-target="#AgregaArchivosR">Añadir Archivos</button></div>
+
+                                                    <div class="form-group"><button id="btnVerArchivosR" type="button" class="btn btn-secondary  btn-block" data-toggle="modal" data-target="#modalListarArchivos">Ver Archivos</button></div>
+                                                    <h9> </h9> <!--Corregir desfase-->
+
+
+                                                </div>
+                                            </div>
+
+                                                            <input type="hidden" class="form-control" id="idReunion" name="idReunion" value="@temp2.TN_Id_Reunion" />
+
+                                                                            <div class="form-group"><button class="btn btn-outline-secondary btn-block" type="button" href="javascript:;" onclick="finalizarModificarReunion($('#idReunion').val(), $('#NombreR').val(), $('#TN_Id_Tipo_Reunion').val(), $('#descripcionR').val(), $('#comentarioR').val(), $('#LugarR').val(), $('#FechaHoraR').val()); return false;">Finalizar</button></div>
+                                                                                            <span id="reunionDatos"></span>}
+
+                    </center>
+
+                </div>
+            </div>
+        </CENTER>
+    </section>
+</section>
+
+
+<!--Modal ingresar temas-->
+<div class="modal fade" id="modalTemas" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #343a40 !important;">
+                <h3 style="color:#ffffff">Lista de temas</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <table id="buscarR" class="table table-striped table-bordered dt-responsive nowrap" style="width:90%">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>#</th>
+                            <th>Tema</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+
+                        <tr>
+                            <th>1</th>
+                            <td><textarea class="form-control" id="temaR" rows="2"></textarea></td>
+                        </tr>
+
+
+                    </tbody>
+                </table>
+
+            </div>
+            <div class="modal-footer">
+
+                <input type="button" class="btn btn-info" href="javascript:;" data-toggle="modal" data-target="#modalAnadirTema" onclick="anadirTemaReunion($('#temaR').val()); return false;" value="Agregar tema" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal lista de usuario -->
+<div class="modal fade" id="modalUsuariosCrearReunion" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #343a40 !important;">
+                <h3 style="color:#ffffff">Lista de Usuarios</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <table id="tablaUsuariosCrearReunion" class="table table-striped table-bordered dt-responsive nowrap" style="width:100%">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Incluir</th>
+                            <th>Nombre</th>
+                            <th>Oficina</th>
+                            <th>Puesto</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (ViewBag.ListaUsuarios != null)
+                        {
+            @if (ViewBag.ReunionModificar != null)
+            {
+
+                ReunionModel temp2 = ViewBag.ReunionModificar;
+
+
+                foreach (UsuarioModel temp in ViewBag.ListaUsuarios)
+                {
+                    var name_id_Usuarios = "usuarioscheckbox" + temp.IdUsuario;
+
+                    string[] vectorIdUsuario = temp2.TC_Lista_Usuarios.Split(',');
+                    bool activo = false;
+                    for (int i = 0; i < vectorIdUsuario.Length; i++)
+                    {
+                        if (Int32.Parse(vectorIdUsuario[i].ToString()) == temp.IdUsuario)
+                        {
+                            activo = true;
+                            break;
+                        }
+                        else
+                        {
+                            activo = false;
+                        }
+
+                    }
+
+                    if (activo)
+                    {
+
+<tr>
+    <td>
+        <div class="custom-control custom-switch">
+            <input name="usuarioscheckbox" type="checkbox" checked class="custom-control-input" id="@name_id_Usuarios" value="@temp.IdUsuario">
+            <label class="custom-control-label" for="@name_id_Usuarios">
+            </label>
+        </div>
+    </td>
+    <td>@temp.Nombre</td>
+    <td>@temp.Oficina</td>
+    <td>@temp.Puesto</td>
+</tr>
+ }
+else
+{
+<tr>
+    <td>
+        <div class="custom-control custom-switch">
+            <input name="usuarioscheckbox" type="checkbox" class="custom-control-input" id="@name_id_Usuarios" value="@temp.IdUsuario">
+            <label class="custom-control-label" for="@name_id_Usuarios">
+            </label>
+        </div>
+    </td>
+    <td>@temp.Nombre</td>
+    <td>@temp.Oficina</td>
+    <td>@temp.Puesto</td>
+</tr>
+ }
+}
+} @*foreach (UsuarioModel temp in ViewBag.ListaUsuarios)
+    {
+        var name_id_Usuarios = "usuarioscheckbox" + temp.IdUsuario;
+        <tr>
+            <td>
+                <div class="custom-control custom-switch">
+                    <input name="usuarioscheckbox" type="checkbox" class="custom-control-input" id="@name_id_Usuarios" value="@temp.IdUsuario">
+                    <label class="custom-control-label" for="@name_id_Usuarios">
+                    </label>
+                </div>
+            </td>
+            <td>@temp.Nombre</td>
+            <td>@temp.Oficina</td>
+            <td>@temp.Puesto</td>
+        </tr>
+    }*@}
+
+                    </tbody>
+                </table>
+
+
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <input type="button" class="btn btn-warning" href="javascript:;" data-toggle="modal" data-target="#modalAnadirContacto" onclick="anadirContactosReunion(); return false;" value="Agregar Contactos" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal lista de tareas -->
+<div class="modal fade" id="modalTareasCrearReunion" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #343a40 !important;">
+                <h3 style="color:#ffffff">Lista de Tareas</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <table id="tablaTareasCrearReunion" class="table table-striped table-bordered dt-responsive nowrap" style="width:100%">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Incluir</th>
+                            <th>Tarea</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (ViewBag.ListaTareas != null)
+                        {
+
+            @if (ViewBag.ReunionModificar != null)
+            {
+
+                ReunionModel temp2 = ViewBag.ReunionModificar;
+
+
+                foreach (TareaModel temp in ViewBag.ListaTareas)
+                {
+                    var name_id = "tareascheckbox" + temp.TN_Id_Tarea;
+
+                    string[] vectorIdTareas = temp2.TC_Lista_Tareas.Split(',');
+                    bool activo = false;
+                    for (int i = 0; i < vectorIdTareas.Length; i++)
+                    {
+                        if (Int32.Parse(vectorIdTareas[i].ToString()) == temp.TN_Id_Tarea)
+                        {
+                            activo = true;
+                            break;
+                        }
+                        else
+                        {
+                            activo = false;
+                        }
+
+                    }
+
+                    if (activo)
+                    {
+
+<tr>
+    <td>
+        <div class="custom-control custom-switch">
+            <input name="tareascheckbox" type="checkbox" checked class="custom-control-input" id="@name_id" value="@temp.TN_Id_Tarea">
+            <label class="custom-control-label" for="@name_id">
+            </label>
+
+        </div>
+    </td>
+    <td>@temp.TC_Nombre_Tarea</td>
+</tr>
+ }
+else
+{
+<tr>
+    <td>
+        <div class="custom-control custom-switch">
+            <input name="tareascheckbox" type="checkbox" class="custom-control-input" id="@name_id" value="@temp.TN_Id_Tarea">
+            <label class="custom-control-label" for="@name_id">
+            </label>
+
+        </div>
+    </td>
+    <td>@temp.TC_Nombre_Tarea</td>
+</tr>
+ }
+}
+} @*foreach (TareaModel temp in ViewBag.ListaTareas)
+    {
+        var name_id = "tareascheckbox" + temp.TN_Id_Tarea;
+        <tr>
+            <td>
+                <div class="custom-control custom-switch">
+                    <input name="tareascheckbox" type="checkbox" class="custom-control-input" id="@name_id" value="@temp.TN_Id_Tarea">
+                    <label class="custom-control-label" for="@name_id">
+                    </label>
+
+                </div>
+            </td>
+            <td>@temp.TC_Nombre_Tarea</td>
+        </tr>
+    }*@}
+
+                    </tbody>
+                </table>
+
+            </div>
+
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+                <input type="button" class="btn btn-warning" href="javascript:;" data-toggle="modal" data-target="#modalAnadirTareas" onclick="anadirTareasReunion(); return false;" value="Agregar Tareas" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!-- Modal -->
+
+<div class="modal fade" id="AgregaArchivosR" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #343a40 !important;">
+                <h3 style="color:#ffffff">Agregar Archivos</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div class="col-sm-10 signup-form">
+
+                    <div>
+
+                        <div content="width=device-widt" class="row">
+                            <div class="form-group col-sm-12">
+
+                                <input type="file" class="form-control" id="archivosR" name="archivosR" multiple="multiple" />
+
+                            </div>
+
+                            <div class="form-group col-sm-7">
+
+                                <button type="button" class="btn btn-outline-secondary" href="javascript:;" data-toggle="modal" data-target="#modalAnadirArchivos" onclick="listaArchivos(); return false;">Añadir Archivos</button>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!-- Modal listar Archivos -->
+
+<div class="modal fade" id="modalListarArchivos" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #343a40 !important;">
+                <h3 style="color:#ffffff">Lista de Archivos</h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+
+                <table id="ArchivosCargadosTRM" class="table table-striped table-bordered dt-responsive nowrap" style="width:100%">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Archivo</th>
+                            <th>Eliminar</th>
+                        </tr>
+
+                    </thead>
+                    <tbody>
+
+                        @if (ViewBag.ListaArchivos != null)
+                        {
+                            foreach (ArchivoModel temp in ViewBag.ListaArchivos)
+                            {
+
+            <tr id="@temp.TN_Id_Archivo" name="@temp.TN_Id_Archivo">
+                <td>
+                    <div class="custom-control custom-switch">
+                        <a href="@temp.TC_Link">@temp.TC_Nombre_Archivo</a>
+
+                    </div>
+
+                </td>
+                <td>
+                    <button type="button" class="btn btn-outline-secondary" href="javascript:;" onclick="EliminarArchivo(@temp.TN_Id_Archivo); return false;">Eliminar</button><br>
+                    <span id="ArchivosEliminar"></span>
+                </td>
+
+            </tr>
+}
+
+    }
+
+                    </tbody>
+                </table>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Cerrar</button>
+
+                <input type="button" class="btn btn-warning" href="javascript:;" data-toggle="modal" data-target="#modalAnadirTareas" onclick="anadirTareasReunion(); return false;" value="Agregar Tareas" />
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!--Modal Luego de añadir contacto-->
+<div class="modal fade" id="modalAnadirContacto" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #343a40 !important;">
+                <h3 style="color:#ffffff"></h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h5>Los contactos fueron agregados con exito</h5>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-dark" data-dismiss="modal">Aceptar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!--Modal Luego de añadir tareas-->
+<div class="modal fade" id="modalAnadirTareas" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #343a40 !important;">
+                <h3 style="color:#ffffff"></h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h5>Las tareas fueron agregadas con exito</h5>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-dark" data-dismiss="modal">Aceptar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!--Modal Luego de añadir temas-->
+<div class="modal fade" id="modalAnadirTema" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #343a40 !important;">
+                <h3 style="color:#ffffff"></h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h5>Los temas fueron agregados con exito</h5>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-dark" data-dismiss="modal">Aceptar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<!--Modal Luego de añadir ARCHIVOS-->
+<div class="modal fade" id="modalAnadirArchivos" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header" style="background-color: #343a40 !important;">
+                <h3 style="color:#ffffff"></h3>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <h5>Los archivos fueron agregados con exito</h5>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-dark" data-dismiss="modal">Aceptar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,174 @@
+﻿@using System.Dynamic;
+@{
+    ViewData["Title"] = "MinutaReunion";
+}
+@{
+    Layout = "_LayoutMinuta";
+
+}
+@*@model List<UsuarioModel>*@
+
+<section id="contenidoBR" style="margin-top:220px">
+    <section id="principalBR">
+
+        <br>
+        <div class="">
+            <div class="">
+                <CENTER>
+                    <h1>
+                        <img src="~/img/escudoNav.png">
+                        Organismo de Investigación
+                        Judicial
+                        Oficina de Planes y
+                        Operaciones
+                    </h1>
+                    <br><br><br>
+
+                    <h3>Minuta- N° @Model[2].TN_Id_Reunion</h3>
+                </CENTER>
+            </div>
+            <table id="tablaUsuariosCrearReunion" class="table table-striped table-bordered dt-responsive nowrap" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>Proyecto</th>
+                        <td>@Model[2].TC_Nombre_Reunion</td>
+                        <th>Responsable:</th>
+                        <td>@Model[2].TC_Nombre_Usuario</td>
+                    </tr>
+                    <tr>
+                        <th>Fecha Inicio:</th>
+
+                        <td>@Model[2].TC_Fecha_Inicio</td>
+                        <th>Fecha y hora final:</th>
+                        <td>@Model[2].TC_Fecha_Final</td>
+                    </tr>
+                </thead>
+            </table>
+
+
+
+            <br><br>
+            <h4 class="font-weight-bold">Convocados:</h4>
+            <table id="tablaUsuariosCrearReunion" class="table table-striped table-bordered dt-responsive nowrap" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>Asitencia</th>
+                        <th>Nombre</th>
+                        <th>Puesto</th>
+                        <th>Firma</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+
+                    @foreach (UsuarioModel temp in Model[0])
+                    {
+                        <tr>
+
+                            @if (@temp.Asistencia == 1)
+                            {
+                                <td>Presente</td>
+                            }
+                            else
+                            {
+                                <td>Ausente</td>
+                            }
+
+                            <td>@temp.Nombre  @temp.PrimerApellido</td>
+                            <td>@temp.Puesto</td>
+                            <td></td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+
+        <br>
+        <h4 class="font-weight-bold">Descripcion:</h4>
+        <h5 class="">
+            @Model[2].TC_Descripcion
+        </h5>
+
+        <br>
+        <h4 class="font-weight-bold">Temas:</h4>
+
+        <table id="tablaUsuariosCrearReunion" class="table table-striped table-bordered dt-responsive nowrap" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Tema</th>
+                    <th>Acuerdo</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+
+
+                @foreach (ReunionModel temp in Model[3])
+                {
+                <tr>
+                    <td>
+                        @temp.TC_Nombre_Tema
+                    </td>
+                    <td>
+                        @temp.TC_Acuerdo
+                    </td>
+                        <br>
+                </tr>
+
+                        }
+
+                </tbody>
+        </table>
+
+       
+
+
+        <br><br>
+        <h4 class="font-weight-bold">Tarea:</h4>
+        <table id="tablaUsuariosCrearReunion" class="table table-striped table-bordered dt-responsive nowrap" style="width:100%">
+            <thead>
+                <tr>
+                    <th>Tarea</th>
+                    <th>Descripcion</th>
+                    <th>Acuerdo</th>
+                    <th>Responsable</th>
+                    <th>Estatus</th>
+                </tr>
+            </thead>
+            <tbody>
+
+
+                @foreach (TareaModel temp in Model[1])
+                {
+
+                    <tr>
+                        <td>@temp.TC_Nombre_Tarea</td>
+                        <td>@temp.TC_Descripcion_Tarea</td>
+                        <td>@temp.TC_Acuerdo</td>
+                        <td>@temp.TC_Nombre_Usuario  @temp.TC_Primer_Apellido</td>
+
+                        @if (@temp.TB_Estado == 1)
+                        {
+                            <td>Finalizada</td>
+                        }
+                        else
+                        {
+                            <td>Pendiente</td>
+                        }
+
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+
+
+    </section>
+</section>
+
+
+
+
+
+
+

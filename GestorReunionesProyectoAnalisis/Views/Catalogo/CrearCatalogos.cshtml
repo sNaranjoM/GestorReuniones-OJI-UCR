@@ -1,0 +1,117 @@
+﻿@{
+    ViewData["Title"] = "CrearCatalogos";
+
+    if (ViewBag.PermisoUsuario == "1")
+    {
+        Layout = "_Layout";
+    }
+    else if (ViewBag.PermisoUsuario == "2")
+    {
+        Layout = "LayoutUsuarioEstandar";
+    }
+    else if (ViewBag.PermisoUsuario == "3")
+    {
+        Layout = "LayoutUsuarioCatalogos";
+    }
+
+    if (ViewBag.PermisoUsuario == null)
+    {
+        <script>
+            redireccion('/Usuario/MuestraLoginUsuario');
+        </script>
+    }
+
+}
+
+@model String
+
+
+<link rel="stylesheet" type="text/css" href="~/css/script.css" />
+<link rel="stylesheet" type="text/css" href="~/css/moduloAdministrador.css" />
+<link rel="stylesheet" type="text/css" href="~/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="~/css/style.css">
+
+<section id="contenido">
+    <section id="principal">
+
+
+        <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+
+            <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                <div class="signup-form">
+                    <form action="?controlador=Articulos&accion=crearCategoria" method="post">
+                        <h3>Tipo reunión</h3>
+                        <p class="hint-text">Espacio para ingresar nuevos tipos de reuniones. Unicamente administradores</p>
+                        <div class="form-group"><input id="fname" name="name" type="text" placeholder="Nombre" class="form-control"></div>
+
+                        <div class="form-group"> <button type="submit" class="btn btn-outline-secondary">Ingresar</button> </div>
+                        <!--<div class="form-group"><input type="button" href="javascript:;" onclick="registrarArticulo($('#nombreArticulo').val(), $('#precioArticulo').val(), $('#descripcionArticulo').val());return false;" class="btn btn-outline-secondary" id="registrar" name="registrar" value="Crear"/> </div> -->
+                        <div class="form-group"><span id="resultadoRespuesta"></span></div>
+
+                    </form>
+                </div>
+            </div>
+
+
+            <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                <div class="signup-form">
+                    <form action="?controlador=Articulos&accion=crearCategoria" method="post">
+                        <h3>Oficina</h3>
+                        <p class="hint-text">Espacio para ingresar nuevas oficinas o departamentos para ser asignados a los Usuarios. Unicamente administradores</p>
+                        <div class="form-group"><input id="fname" name="name" type="text" placeholder="Nombre" class="form-control"></div>
+
+                        <div class="form-group"> <button type="submit" class="btn btn-outline-secondary">Ingresar</button> </div>
+                        <!--<div class="form-group"><input type="button" href="javascript:;" onclick="registrarArticulo($('#nombreArticulo').val(), $('#precioArticulo').val(), $('#descripcionArticulo').val());return false;" class="btn btn-outline-secondary" id="registrar" name="registrar" value="Crear"/> </div> -->
+                        <div class="form-group"><span id="resultadoRespuesta"></span></div>
+
+                    </form>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+
+            <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                <div class="signup-form">
+                    <form action="?controlador=Articulos&accion=crearCategoria" method="post">
+                        <h3>Rol del sistema </h3>
+                        <p class="hint-text">Espacio para ingresar nuevos roles del sistema  a los contactos. Unicamente administradores</p>
+                        <div class="form-group"><input id="fname" name="name" type="text" placeholder="Nombre" class="form-control"></div>
+
+                        <div class="form-group"> <button type="submit" class="btn btn-outline-secondary">Ingresar</button> </div>
+                        <!--<div class="form-group"><input type="button" href="javascript:;" onclick="registrarArticulo($('#nombreArticulo').val(), $('#precioArticulo').val(), $('#descripcionArticulo').val());return false;" class="btn btn-outline-secondary" id="registrar" name="registrar" value="Crear"/> </div> -->
+                        <div class="form-group"><span id="resultadoRespuesta"></span></div>
+
+                    </form>
+                </div>
+            </div>
+
+
+            <div class="bg-light mr-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
+                <div class="signup-form">
+                    <form action="?controlador=Articulos&accion=crearCategoria" method="post">
+                        <h3>Puesto del usuario</h3>
+                        <p class="hint-text">Espacio para ingresar nuevos puestos de usarios. Unicamente administradores</p>
+                        <div class="form-group"><input id="fname" name="name" type="text" placeholder="Nombre" class="form-control"></div>
+                        <div class="form-group"><input id="fname" name="name" type="number" placeholder="Salario" class="form-control"></div>
+
+                        <div class="form-group"> <button type="submit" class="btn btn-outline-secondary">Ingresar</button> </div>
+                        <!--<div class="form-group"><input type="button" href="javascript:;" onclick="registrarArticulo($('#nombreArticulo').val(), $('#precioArticulo').val(), $('#descripcionArticulo').val());return false;" class="btn btn-outline-secondary" id="registrar" name="registrar" value="Crear"/> </div> -->
+                        <div class="form-group"><span id="resultadoRespuesta"></span></div>
+
+                    </form>
+                </div>
+            </div>
+
+
+
+
+        </div>
+
+
+
+    </section>
+</section>
+
